@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.farhad-rezaie.com/Resume.pdf](https://www.farhad-rezaie.com/Resume.pdf)
 
-- ⚡ Fun fact **I think, I Will create something unique oneday**
+- ⚡ Fun fact **I think, I will create something unique oneday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
