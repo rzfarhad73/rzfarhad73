@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Farhad</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A former Software Engineer, currently working as a Data Analyst and AI model trainer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzfarhad73&label=Profile%20views&color=0e75b6&style=flat" alt="rzfarhad73" /> </p>
 
 - 🌱 I’m currently learning **Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [farhad-rezaie.com](farhad-rezaie.com)
-
-- 📝 I regularly write articles on [farhad-rezaie.com](farhad-rezaie.com)
-
-- 💬 Ask me about **React, Vue, Front-end developing**
+- 💬 Ask me about **React, Vue, Front-end developing, Django, Data Analysis, LLM**
 
 - 📫 How to reach me **farhadrezaie73@gmail.com**
-
-- 📄 Know about my experiences [https://www.farhad-rezaie.com/Resume.pdf](https://www.farhad-rezaie.com/Resume.pdf)
 
 - ⚡ Fun fact **I think, I will create something unique oneday**
 
