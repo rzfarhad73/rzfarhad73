@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and AI**
 
-- 💬 Ask me about **React, Vue, Front-end developing, Django, Data Analysis, LLM**
+- 💬 Ask me about **React, Vue, Front-end developing, Data Analysis, LLM**
 
 - 📫 How to reach me **farhadrezaie73@gmail.com**
 
