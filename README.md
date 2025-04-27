@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farhad</h1>
-<h3 align="center">A former Software Engineer, currently working as a Data Analyst and AI model trainer</h3>
+<h3 align="center">A Software Engineer, currently working as a LLM trainer focus on front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzfarhad73&label=Profile%20views&color=0e75b6&style=flat" alt="rzfarhad73" /> </p>
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 I’m currently learning **AI and front-end**
 
 - 💬 Ask me about **React, Vue, Front-end developing, Data Analysis, LLM**
 
