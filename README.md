@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rezaie-farhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezaie-farhad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rezaei-farhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezaie-farhad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10143891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10143891" height="30" width="40" /></a>
 <a href="https://medium.com/@farhadrezaie73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farhadrezaie73" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/farhadrezaie73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhadrezaie73" height="30" width="40" /></a>
