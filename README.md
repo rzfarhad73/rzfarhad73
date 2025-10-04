@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farhad</h1>
-<h3 align="center">A Software Engineer, currently working as a LLM trainer focus on front-end</h3>
+<h3 align="center">A Software Engineer, currently building new stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzfarhad73&label=Profile%20views&color=0e75b6&style=flat" alt="rzfarhad73" /> </p>
 
 - 🌱 I’m currently learning **AI and front-end**
 
-- 💬 Ask me about **React, Vue, Front-end developing, Data Analysis, LLM**
+- 💬 Ask me about **React, Front-end developing, Full-Stack**
 
 - 📫 How to reach me **farhadrezaie73@gmail.com**
 
