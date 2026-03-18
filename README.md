@@ -1,7 +1,7 @@
 <h1 align="center">Farhad Rezaei</h1>
 
 <p align="center">
-  <b>Senior Frontend Engineer</b> · React · TypeScript · Real-time Systems
+  <b>Senior Frontend Engineer | Full-stack developer | Software Engineer</b> <br> · React · TypeScript · Python
 </p>
 
 <p align="center">
