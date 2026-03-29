@@ -66,15 +66,6 @@ AI-powered interfaces · Advanced frontend architecture · Scalable design syste
 
 ---
 
-### 📈 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rzfarhad73&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzfarhad73&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 <p align="center">
   Open to remote opportunities and relocation
 </p>
