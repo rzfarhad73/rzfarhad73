@@ -33,11 +33,11 @@ Focused on real-time systems, performance optimization, and clean frontend archi
 ### ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,postgres,docker,python,django,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux,redis,nodejs,postgres,docker,python,django,git,figma" />
 </p>
 
 React · TypeScript · Tailwind · Node.js · PostgreSQL · Docker  
-TanStack Query · Redux Toolkit · GraphQL · WebSockets · Python · Django Rest Framework
+TanStack Query · Redux Toolkit · GraphQL · WebSockets · Python · Django Rest Framework · Redis
 
 ---
 
