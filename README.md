@@ -33,7 +33,7 @@ Focused on real-time systems, performance optimization, and clean frontend archi
 ### ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,postgres,docker, python, djangorestframework" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,postgres,docker, python, django, git" />
 </p>
 
 React · TypeScript · Tailwind · Node.js · PostgreSQL · Docker  
