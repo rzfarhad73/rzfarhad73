@@ -33,10 +33,10 @@ Focused on real-time systems, performance optimization, and clean frontend archi
 ### ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,postgres,docker" />
 </p>
 
-React · TypeScript · Next.js · Tailwind · Node.js · PostgreSQL · Docker  
+React · TypeScript · Tailwind · Node.js · PostgreSQL · Docker  
 TanStack Query · Redux Toolkit · GraphQL · WebSockets
 
 ---
