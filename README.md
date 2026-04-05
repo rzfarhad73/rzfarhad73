@@ -26,9 +26,7 @@
 ### 🧠 Profile
 
 Senior Frontend Engineer & Full-Stack Engineer leveraging deep engineering roots in System Dynamics and Optimization to build scalable, high-performance web applications. Expertise in React, AI integration, complex state architectures, and real-time data visualization.
-
 With over 7 years of experience in software engineering, I specialize in architecting scalable, high-performance web applications. My approach is rooted in first-principles thinking, ensuring that every line of code contributes to system stability, maintainability, and optimal performance.
-
 I have led development teams, architected high-performance applications for millions of users, and integrated AI-powered solutions into real-world products. I am passionate about bridging the gap between complex engineering principles and intuitive, high-impact user experiences.
 
 ---
