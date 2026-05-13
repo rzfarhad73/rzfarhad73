@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="100" viewBox="0 0 40 100" fill="none">
+  <path d="M 20,90 C 20,70 5,70 5,50 C 5,30 20,30 20,10" stroke="#374151" stroke-width="8" stroke-linecap="round" fill="none" />
+  <path d="M 20,90 C 20,70 5,70 5,50 C 5,30 20,30 20,10" stroke="#ffffff" stroke-width="2" stroke-linecap="round" fill="none" stroke-dasharray="6,6">
+    <animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite" />
+  </path>
+  <polyline points="12,20 20,10 28,20" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
