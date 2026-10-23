@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:38bdf8,100:8b5cf6&height=260&section=header&text=Farhad%20Rezaei&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Front-end%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=22" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:38bdf8,100:8b5cf6&height=260&section=header&text=Farhad%20Rezaei&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer&descAlignY=58&descSize=24" width="100%" alt="Header Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Real-time+fintech+interfaces+%E2%9A%A1;100%2B+updates%2Fsec+at+sub-200ms+latency;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Django;From+0+to+production%2C+end+to+end" alt="Typing SVG" />
 
@@ -22,10 +22,10 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm an engineer with **7+ years** of experience building high-performance, data-intensive products across fintech, e-learning and logistics. I work from **first principles** to keep systems stable and fast.
+I'm a full-stack engineer with **7+ years** of experience building high-performance, data-intensive products across fintech, e-learning and logistics. I'm comfortable owning a product from the React/Next.js frontend down to the Django backend and the infrastructure it runs on, and I work from **first principles** to keep systems stable and fast.
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="18" height="18" align="absmiddle" /> Building real-time fintech interfaces at **Finora**<br/>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="18" height="18" align="absmiddle" /> Specialized in **React, TypeScript and real-time architectures**<br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="18" height="18" align="absmiddle" /> Building real-time fintech products at **Finora**<br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="18" height="18" align="absmiddle" /> Specialized in **React, TypeScript, Django and real-time architectures**<br/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="18" height="18" align="absmiddle" /> React apps serving **1M+ users**, real-time UIs at **sub-200ms**<br/>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d7_fe0f/512.gif" width="18" height="18" align="absmiddle" /> Took a startup **from 0 to production** as founding CTO
 
@@ -34,7 +34,7 @@ I'm an engineer with **7+ years** of experience building high-performance, data-
 
 ```ts
 const farhad = {
-  role: "Senior Frontend Engineer",
+  role: "Senior Full-Stack Engineer",
   based: "Istanbul, TR",
   remote: ["EU", "UAE", "US"],
   frontend: ["React", "Next.js", "TypeScript"],
@@ -94,16 +94,17 @@ gantt
     section Turing
     Software Engineer            :done, 2024-03, 2025-05
     section Finora
-    Senior Frontend Engineer     :active, 2025-05, 2026-10
+    Senior Full-Stack Engineer   :active, 2025-05, 2026-10
 ```
 
 <details open>
-<summary><b>🟢 Senior Frontend Engineer</b> · <img src="https://img.shields.io/badge/Finora-10B981?style=flat" height="20" align="absmiddle" alt="Finora" /> · <code>May 2025 – Present</code> · UAE · Remote</summary>
+<summary><b>🟢 Senior Full-Stack Engineer</b> · <img src="https://img.shields.io/badge/Finora-10B981?style=flat" height="20" align="absmiddle" alt="Finora" /> · <code>May 2025 – Present</code> · UAE · Remote</summary>
 <br/>
 <ul>
-<li>Owned end-to-end delivery of complex fintech features in React and TypeScript, building real-time interfaces displaying <b>100+ live data points</b> per screen.</li>
+<li>Owned end-to-end delivery of fintech features across the stack, from React/TypeScript UI to coordinating backend API contracts, for real-time interfaces with <b>100+ live data points</b> per screen.</li>
 <li>Built low-latency UI for WebSocket-driven data, sustaining <b>100+ updates/sec</b> at <b>sub-200ms latency</b>.</li>
 <li>Designed state architecture with TanStack Query and Redux Toolkit, cutting redundant API calls significantly.</li>
+<li>Led remote delivery of AI-driven features with backend engineers, increasing team throughput.</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-WebSockets-010101?logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white" /></p>
 </details>
@@ -127,10 +128,10 @@ gantt
 <summary><b>🟣 Co-Founder & Lead Engineer (CTO)</b> · <img src="https://img.shields.io/badge/Fundai-8B5CF6?style=flat" height="20" align="absmiddle" alt="Fundai" /> · <code>Sep 2023 – Mar 2024</code> · Hybrid</summary>
 <br/>
 <ul>
-<li>Built an AI analytics platform visualizing live market data across <b>700+ companies</b>, optimized for large-scale datasets in React, TypeScript, and Django REST Framework.</li>
-<li>Developed ETL pipelines (Scrapy, Pandas, Celery) aggregating data from <b>10+ sources</b> into PostgreSQL.</li>
+<li>Built and shipped a full-stack AI analytics platform (React, TypeScript, Django REST Framework) visualizing live market data across <b>700+ companies</b>.</li>
+<li>Designed and built ETL pipelines (Scrapy, Pandas, Celery) aggregating data from <b>10+ sources</b> into a structured PostgreSQL system.</li>
 <li>Optimized queries on <b>30M+ row datasets</b> with indexing and Redis caching, cutting analytics latency from minutes to seconds.</li>
-<li>Took the product <b>from 0 to production</b> as founding technical lead of a 3-person team.</li>
+<li>Owned the full technical stack and infrastructure as founding technical lead, taking the product <b>from 0 to production</b> with a 3-person team.</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Django_REST-092E20?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" /></p>
 </details>
@@ -141,7 +142,7 @@ gantt
 <summary><b>🔷 Software Engineer</b> · <img src="https://img.shields.io/badge/Maktabkhooneh-0052CC?style=flat" height="20" align="absmiddle" alt="Maktabkhooneh" /> · <code>May 2018 – Sep 2023</code> · Hybrid</summary>
 <br/>
 <ul>
-<li>Built user-facing React applications serving <b>1M+ users</b> on a high-traffic product.</li>
+<li>Built and maintained user-facing React applications serving <b>1M+ users</b> on a high-traffic product.</li>
 <li>Improved page load performance through SSR and caching strategies.</li>
 <li>Improved frontend performance using Web Workers and virtualization for large, complex views.</li>
 <li>Reduced backend load through optimized data fetching, throttling, and client-side state management.</li>
